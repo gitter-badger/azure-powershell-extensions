@@ -2,6 +2,8 @@
 
 # Introduction
 
+[![Join the chat at https://gitter.im/pcgeek86/azure-powershell-extensions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pcgeek86/azure-powershell-extensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This PowerShell script module project is intended to offer extensions to the Microsoft Azure PowerShell module, to simply interactive use, and fill in functional & documentation gaps. The specific areas that it will help fill are:
 
 - PowerShell Proxy functions - Simplify cmdlet calls that are unnecessarily complicated by default.
